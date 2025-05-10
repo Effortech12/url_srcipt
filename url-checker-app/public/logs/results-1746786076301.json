@@ -1,0 +1,154 @@
+[
+  {
+    "url": "https://vkyc1.shivalikbank.com/getcustomerurl/",
+    "alias": "vkyc",
+    "status": "OK",
+    "responseCode": 200,
+    "reason": "Success",
+    "time": "5/9/2025, 3:47:05 PM"
+  },
+  {
+    "url": "https://pam.shivalikbank.com/",
+    "alias": "Shivalik PAM",
+    "status": "Failed",
+    "responseCode": "N/A",
+    "reason": "net::ERR_NAME_NOT_RESOLVED at https://pam.shivalikbank.com/",
+    "time": "5/9/2025, 3:47:09 PM"
+  },
+  {
+    "url": "https://developerportal.shivalikbank.com/auth/login",
+    "alias": "Shivalik Developer Portal",
+    "status": "OK",
+    "responseCode": 200,
+    "reason": "Success",
+    "time": "5/9/2025, 3:47:10 PM"
+  },
+  {
+    "url": "https://swiftdoc.shivalikbank.com:8443/bank_login.aspx",
+    "alias": "Shivalik SwiftDoc",
+    "status": "OK",
+    "responseCode": 200,
+    "reason": "Success",
+    "time": "5/9/2025, 3:47:13 PM"
+  },
+  {
+    "url": "https://shivoks.shivalikbank.com/login",
+    "alias": "Shivoks",
+    "status": "OK",
+    "responseCode": 200,
+    "reason": "Success",
+    "time": "5/9/2025, 3:47:18 PM"
+  },
+  {
+    "url": "https://recon.shivalikbank.com:8443/RECON/Login.aspx",
+    "alias": "Recon Login",
+    "status": "Failed",
+    "responseCode": "N/A",
+    "reason": "Navigation timeout of 30000 ms exceeded",
+    "time": "5/9/2025, 3:47:29 PM"
+  },
+  {
+    "url": "https://pam.shivalikbank.com/",
+    "alias": "Pam_Shivalik",
+    "status": "Failed",
+    "responseCode": "N/A",
+    "reason": "net::ERR_NAME_NOT_RESOLVED at https://pam.shivalikbank.com/",
+    "time": "5/9/2025, 3:47:59 PM"
+  },
+  {
+    "url": "https://nach-shix.oisclouds.co.in/login",
+    "alias": "NACH_SHIX.OISCLOUDS.CO.IN",
+    "status": "Failed",
+    "responseCode": "N/A",
+    "reason": "net::ERR_NAME_NOT_RESOLVED at https://nach-shix.oisclouds.co.in/login",
+    "time": "5/9/2025, 3:48:00 PM"
+  },
+  {
+    "url": "https://los.shivalikbank.com/LOS_LIVE/Login.aspx",
+    "alias": "LOS_SHIVALIK",
+    "status": "Failed",
+    "responseCode": "N/A",
+    "reason": "Navigation timeout of 30000 ms exceeded",
+    "time": "5/9/2025, 3:48:01 PM"
+  },
+  {
+    "url": "https://helpdeskqradmin.shivalikbank.com:10443/",
+    "alias": "HELPDESK_ADMIN",
+    "status": "Failed",
+    "responseCode": "N/A",
+    "reason": "Navigation timeout of 30000 ms exceeded",
+    "time": "5/9/2025, 3:48:32 PM"
+  },
+  {
+    "url": "https://efrm.shivalikbank.com/",
+    "alias": "EFRM_SHIVALIK",
+    "status": "Failed",
+    "responseCode": "N/A",
+    "reason": "net::ERR_NAME_NOT_RESOLVED at https://efrm.shivalikbank.com/",
+    "time": "5/9/2025, 3:49:03 PM"
+  },
+  {
+    "url": "CTS Login | ORITSO Pvt. Ltd. (shivalikbank.com)",
+    "alias": "SHIVALIKBANK.COM",
+    "status": "Failed",
+    "responseCode": "N/A",
+    "reason": "Protocol error (Page.navigate): Cannot navigate to invalid URL",
+    "time": "5/9/2025, 3:49:05 PM"
+  },
+  {
+    "url": "CTS Login | ORITSO Pvt. Ltd. (shivalikbank.com)",
+    "alias": "ORITSO PVT.LTD",
+    "status": "Failed",
+    "responseCode": "N/A",
+    "reason": "Protocol error (Page.navigate): Cannot navigate to invalid URL",
+    "time": "5/9/2025, 3:49:05 PM"
+  },
+  {
+    "url": "https://compliance.shivalikbank.com/me2g/ADLogin.aspx?ReturnURL=Default.aspx",
+    "alias": "Compliance",
+    "status": "OK",
+    "responseCode": 200,
+    "reason": "Success",
+    "time": "5/9/2025, 3:49:06 PM"
+  },
+  {
+    "url": "https://aml.shivalikbank.com:8989/BIAMLKYC/Login.aspx",
+    "alias": "BIAMLKYC",
+    "status": "Failed",
+    "responseCode": "N/A",
+    "reason": "Navigation timeout of 30000 ms exceeded",
+    "time": "5/9/2025, 3:49:08 PM"
+  },
+  {
+    "url": "https://amlalm.shivalikbank.com/Compass/login",
+    "alias": "Compass_Login",
+    "status": "Failed",
+    "responseCode": "N/A",
+    "reason": "Navigation timeout of 30000 ms exceeded",
+    "time": "5/9/2025, 3:49:39 PM"
+  },
+  {
+    "url": "https://amlalm.shivalikbank.com:8443/BALM/Account/Login.aspx",
+    "alias": "Balm_Account",
+    "status": "Failed",
+    "responseCode": "N/A",
+    "reason": "Navigation timeout of 30000 ms exceeded",
+    "time": "5/9/2025, 3:50:10 PM"
+  },
+  {
+    "url": "https://amlalm.shivalikbank.com:8443/BASEL/Account/Login.aspx",
+    "alias": "AmlAlm",
+    "status": "Failed",
+    "responseCode": "N/A",
+    "reason": "Navigation timeout of 30000 ms exceeded",
+    "time": "5/9/2025, 3:50:41 PM"
+  },
+  {
+    "url": "https://compliance.shivalikbank.com/me2g/ADLogin.aspx?ReturnURL=Default.aspx",
+    "alias": "Compliance",
+    "status": "OK",
+    "responseCode": 200,
+    "reason": "Success",
+    "time": "5/9/2025, 3:51:13 PM"
+  }
+]

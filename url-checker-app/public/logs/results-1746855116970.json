@@ -1,0 +1,18 @@
+[
+  {
+    "url": "https://vkyc1.shivalikbank.com/getcustomerurl/",
+    "alias": "vkyc",
+    "status": "OK",
+    "responseCode": 200,
+    "reason": "Success",
+    "time": "5/10/2025, 11:01:52 AM"
+  },
+  {
+    "url": "https://pam.shivalikbank.com/",
+    "alias": "Shivalik PAM",
+    "status": "Failed",
+    "responseCode": "N/A",
+    "reason": "net::ERR_NAME_NOT_RESOLVED at https://pam.shivalikbank.com/",
+    "time": "5/10/2025, 11:01:55 AM"
+  }
+]

@@ -1,0 +1,250 @@
+[
+  {
+    "url": "https://developerportal.shivalikbank.com/auth/login",
+    "alias": "Shivalik Developer Portal",
+    "status": "OK",
+    "responseCode": 200,
+    "reason": "Success",
+    "time": "5/9/2025, 2:00:30 PM"
+  },
+  {
+    "url": "https://amlalm.shivalikbank.com:8443/BASEL/Account/Login.aspx",
+    "alias": "AmlAlm",
+    "status": "Failed",
+    "responseCode": "N/A",
+    "reason": "Navigation timeout of 30000 ms exceeded",
+    "time": "5/9/2025, 2:01:29 PM"
+  },
+  {
+    "url": "https://developerportal.shivalik/auth/login",
+    "alias": "Shivalik Developer Portal",
+    "status": "Failed",
+    "responseCode": "N/A",
+    "reason": "net::ERR_NAME_NOT_RESOLVED at https://developerportal.shivalik/auth/login",
+    "time": "5/9/2025, 2:03:04 PM"
+  },
+  {
+    "url": "https://developerportal.shivalikbank.com/auth/login",
+    "alias": "Shivalik Developer Portal",
+    "status": "OK",
+    "responseCode": 200,
+    "reason": "Success",
+    "time": "5/9/2025, 3:21:52 PM"
+  },
+  {
+    "url": "https://developerportal.shivalikbank.com/auth/login",
+    "alias": "Dev Portal",
+    "status": "OK",
+    "responseCode": 200,
+    "reason": "Success",
+    "time": "5/9/2025, 3:53:32 PM"
+  },
+  {
+    "url": "https://vkyc1.shivalikbank.com/getcustomerurl/",
+    "alias": "vkyc",
+    "status": "OK",
+    "responseCode": 200,
+    "reason": "Success",
+    "time": "5/9/2025, 4:08:21 PM"
+  },
+  {
+    "url": "https://vkyc1.shivalikbank.com/getcustomerurl/",
+    "alias": "vkyc shivalik",
+    "status": "OK",
+    "responseCode": 200,
+    "reason": "Success",
+    "time": "5/9/2025, 4:17:33 PM"
+  },
+  {
+    "url": "https://vkyc1.shivalikbank.com/getcustomerurl/",
+    "alias": "vkyccc",
+    "status": "OK",
+    "responseCode": 200,
+    "reason": "Success",
+    "time": "5/9/2025, 4:21:05 PM"
+  },
+  {
+    "url": "https://shivalikbank.com",
+    "alias": "Shivalik Bank",
+    "status": "OK",
+    "responseCode": 200,
+    "reason": "Success",
+    "time": "5/9/2025, 4:22:20 PM"
+  },
+  {
+    "url": "https://shivalikbk.com",
+    "alias": "Shivalik Bank",
+    "status": "Failed",
+    "responseCode": "N/A",
+    "reason": "net::ERR_NAME_NOT_RESOLVED at https://shivalikbk.com",
+    "time": "5/9/2025, 4:22:32 PM"
+  },
+  {
+    "url": "https://shivalikbank.com",
+    "alias": "Shivalik Bank",
+    "status": "OK",
+    "responseCode": 200,
+    "reason": "Success",
+    "time": "5/9/2025, 4:22:44 PM"
+  },
+  {
+    "url": "https://shivalikbk.com",
+    "alias": "Shivalik Bank",
+    "status": "Failed",
+    "responseCode": "N/A",
+    "reason": "net::ERR_NAME_NOT_RESOLVED at https://shivalikbk.com",
+    "time": "5/9/2025, 4:23:36 PM"
+  },
+  {
+    "url": "https://shivalikbank.com",
+    "alias": "Shivalik Bank",
+    "status": "OK",
+    "responseCode": 200,
+    "reason": "Success",
+    "time": "5/9/2025, 4:24:06 PM"
+  },
+  {
+    "url": "https://shivalikbankk.com",
+    "alias": "shivalik",
+    "status": "Failed",
+    "responseCode": "N/A",
+    "reason": "net::ERR_NAME_NOT_RESOLVED at https://shivalikbankk.com",
+    "time": "5/9/2025, 4:49:27 PM"
+  },
+  {
+    "url": "https://shivalikbank...com",
+    "alias": "Shivalik Bank",
+    "status": "Failed",
+    "responseCode": "N/A",
+    "reason": "net::ERR_NAME_NOT_RESOLVED at https://shivalikbank...com",
+    "time": "5/9/2025, 4:52:30 PM"
+  },
+  {
+    "url": "https://shivalikbank...com",
+    "alias": "Shivalik Bank",
+    "status": "Failed",
+    "responseCode": "N/A",
+    "reason": "net::ERR_NAME_NOT_RESOLVED at https://shivalikbank...com",
+    "time": "5/9/2025, 4:53:46 PM"
+  },
+  {
+    "url": "https://shivalikbank.com",
+    "alias": "Shivalik Bank",
+    "status": "OK",
+    "responseCode": 200,
+    "reason": "Success",
+    "time": "5/9/2025, 5:00:07 PM"
+  },
+  {
+    "url": "https://shivalikbank.com",
+    "alias": "Shivalik Bank",
+    "status": "OK",
+    "responseCode": 200,
+    "reason": "Success",
+    "time": "5/10/2025, 10:59:53 AM"
+  },
+  {
+    "url": "https://shivalikbank.com..",
+    "alias": "Shivalik Bank",
+    "status": "Failed",
+    "responseCode": "N/A",
+    "reason": "net::ERR_NAME_NOT_RESOLVED at https://shivalikbank.com..",
+    "time": "5/10/2025, 11:01:16 AM"
+  },
+  {
+    "url": "https://shivalikbank.com",
+    "alias": "Shivalik Bank",
+    "status": "OK",
+    "responseCode": 200,
+    "reason": "Success",
+    "time": "5/10/2025, 11:03:13 AM"
+  },
+  {
+    "url": "https://shivalikbank.com....",
+    "alias": "Shivalik Bank",
+    "status": "Failed",
+    "responseCode": "N/A",
+    "reason": "net::ERR_NAME_NOT_RESOLVED at https://shivalikbank.com....",
+    "time": "5/10/2025, 11:03:28 AM"
+  },
+  {
+    "url": "https://shivalikbank.com",
+    "alias": "shivalik",
+    "status": "OK",
+    "responseCode": 200,
+    "reason": "Success",
+    "time": "5/10/2025, 11:07:14 AM"
+  },
+  {
+    "url": "https://shivalikbank.com",
+    "alias": "shivalik",
+    "status": "OK",
+    "responseCode": 200,
+    "reason": "Success",
+    "time": "5/10/2025, 11:10:09 AM"
+  },
+  {
+    "url": "https://shivalikbank.com",
+    "alias": "shivalik",
+    "status": "OK",
+    "responseCode": 200,
+    "reason": "Success",
+    "time": "5/10/2025, 11:11:13 AM"
+  },
+  {
+    "url": "https://shivalikbank.com",
+    "alias": "hhhh",
+    "status": "OK",
+    "responseCode": 200,
+    "reason": "Success",
+    "time": "5/10/2025, 11:33:37 AM"
+  },
+  {
+    "url": "https://shivalikbank.com..",
+    "alias": "shivalik",
+    "status": "Failed",
+    "responseCode": "N/A",
+    "reason": "net::ERR_NAME_NOT_RESOLVED at https://shivalikbank.com..",
+    "time": "5/10/2025, 11:33:55 AM"
+  },
+  {
+    "url": "https://shivalikbank...com",
+    "alias": "Shivalik Bank",
+    "status": "Failed",
+    "responseCode": "N/A",
+    "reason": "net::ERR_NAME_NOT_RESOLVED at https://shivalikbank...com",
+    "time": "5/10/2025, 11:59:36 AM"
+  },
+  {
+    "url": "https://shivalikbankcom",
+    "alias": "Shivalik Bank",
+    "status": "Failed",
+    "responseCode": "N/A",
+    "reason": "net::ERR_NAME_NOT_RESOLVED at https://shivalikbankcom",
+    "time": "5/10/2025, 12:00:12 PM"
+  },
+  {
+    "url": "https://shivalikbank.com",
+    "alias": "Shivalik Bank",
+    "status": "OK",
+    "responseCode": 200,
+    "reason": "Success",
+    "time": "5/10/2025, 12:00:22 PM"
+  },
+  {
+    "url": "https://shivalikbank.com",
+    "alias": "Shivalik Bank",
+    "status": "OK",
+    "responseCode": 200,
+    "reason": "Success",
+    "time": "5/10/2025, 12:15:07 PM"
+  },
+  {
+    "url": "https://shivalikbank.com",
+    "alias": "SSFB",
+    "status": "OK",
+    "responseCode": 200,
+    "reason": "Success",
+    "time": "5/10/2025, 12:22:25 PM"
+  }
+]
