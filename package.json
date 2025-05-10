@@ -5,8 +5,8 @@
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev":"npm run development",
-    "development":"mix"
+    "dev": "npm run development",
+    "development": "mix"
   },
   "repository": {
     "type": "git",
@@ -28,6 +28,9 @@
     "jquery-ui": "^1.13.2",
     "jquery-ui-touch-punch": "^0.2.3",
     "js-datepicker": "^5.18.2",
+    "next": "^15.3.0",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
     "select2": "^4.1.0-rc.0",
     "uuid": "^9.0.0"
   }
